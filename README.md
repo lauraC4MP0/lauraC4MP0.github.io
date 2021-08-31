@@ -1,2 +1,2 @@
-# lauraC4MP0.github.io
+# turtle_minigame
 a short example of a mini game using python's turtle module
